@@ -1,0 +1,21 @@
+{
+  "name": "atoldiev-profile",
+  "private": true,
+  "type": "module",
+  "description": "Animated terminal-style GitHub profile README",
+  "scripts": {
+    "header": "tsx scripts/make-header.ts",
+    "card": "tsx scripts/make-card.ts",
+    "fetch": "tsx scripts/fetch-contributions.ts",
+    "heatmap": "tsx scripts/render-heatmap.ts",
+    "art": "npm run header && npm run card",
+    "refresh": "npm run fetch && npm run heatmap",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@fontsource/jetbrains-mono": "^5.3.0",
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
