@@ -82,21 +82,19 @@ from a Figma mockup to a deployed app with a back office.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[toldiev-prompts.ru](https://toldiev-prompts.ru)** | Free library of 600 ChatGPT prompts in 12 categories | Next.js · TypeScript |
-| **Delivery tracker** <!-- TODO: ссылка на демо или репо --> | Delivery log, add-delivery form and analytics dashboard for local businesses with home delivery | Next.js · TypeScript |
+| **[toldiev-prompts.ru](https://toldiev-prompts.ru)** | Free library of 600 ChatGPT prompts in 12 categories | Node.js static site generator · Vercel |
+| **[Delivery Tracker](https://github.com/atoldiev/Delivery-Tracker)** | Internal delivery log for a retail store: orders, receipts, statuses and analytics dashboard | Next.js 16 · Drizzle · PostgreSQL |
 | **[AhmedTour](https://github.com/atoldiev/AhmedTour)** | Tour booking platform for the North Caucasus, built by a team of six | React · Redux · Express · PostgreSQL |
 | **[IngPizza](https://github.com/atoldiev/IngPizza)** | Pizza delivery SPA with cart, auth and checkout | React 19 · Redux Toolkit · Vite |
 
 ## 📫 Contact
 
-*Разрабатываю сайты, админ-панели и CRM для бизнеса. Пишите — обсудим задачу.*
+I design and build websites, admin panels and CRM systems that help businesses run and grow.
+Have a project in mind? Let's discuss how I can help.
 
 <a href="https://instagram.com/ahmed.toldiev"><img src="https://img.shields.io/badge/-Instagram-1c2128?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a> <a href="https://t.me/ahmedtoldiev"><img src="https://img.shields.io/badge/-Telegram-1c2128?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a> <a href="https://www.linkedin.com/in/akhmed-toldiev/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a> <a href="mailto:akhmed.toldiev@gmail.com"><img src="https://img.shields.io/badge/-akhmed.toldiev%40gmail.com-1c2128?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 
 <!--
-  TODO перед публикацией:
-  1. Добавить ссылку на Delivery tracker или убрать строку
-  2. Проверить стек toldiev-prompts.ru и Delivery tracker в таблице
   Как обновить картинки: правишь scripts/profile.config.ts и коммитишь, Actions сам перерисует SVG.
   График обновляется сам раз в сутки (.github/workflows/update-profile-art.yml).
 -->
