@@ -25,7 +25,7 @@ export const CARD_ROWS: Array<[string, string]> = [
   ['Shipped', 'toldiev-prompts.ru: 600 ChatGPT prompts'],
   ['', 'Delivery tracker: orders + analytics tool'],
   ['Languages', 'Russian · English'],
-  ['Status', 'Open to freelance projects'],
+  ['Status', 'Open to new projects'],
 ];
 
 // Ингушская боевая башня. Рисуется снизу вверх, как кладка.
