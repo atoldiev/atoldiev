@@ -36,58 +36,23 @@ from a Figma mockup to a deployed app with a back office.
 
 #### Frontend
 
-<img src="https://img.shields.io/badge/-TypeScript-1c2128?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/-JavaScript-1c2128?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/-React-1c2128?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/-Next.js-1c2128?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js"/>
-<img src="https://img.shields.io/badge/-Redux%20Toolkit-1c2128?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux Toolkit"/>
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-1c2128?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/-shadcn%2Fui-1c2128?style=for-the-badge&logo=shadcnui&logoColor=FFFFFF" alt="shadcn/ui"/>
-<img src="https://img.shields.io/badge/-React%20Hook%20Form-1c2128?style=for-the-badge&logo=reacthookform&logoColor=EC5990" alt="React Hook Form"/>
-<img src="https://img.shields.io/badge/-Zod-1c2128?style=for-the-badge&logo=zod&logoColor=408AFF" alt="Zod"/>
-<img src="https://img.shields.io/badge/-Framer%20Motion-1c2128?style=for-the-badge&logo=framer&logoColor=0055FF" alt="Framer Motion"/>
-<img src="https://img.shields.io/badge/-GSAP-1c2128?style=for-the-badge&logo=gsap&logoColor=0AE448" alt="GSAP"/>
-<img src="https://img.shields.io/badge/-Vite-1c2128?style=for-the-badge&logo=vite&logoColor=9135FF" alt="Vite"/>
-<img src="https://img.shields.io/badge/-Sass-1c2128?style=for-the-badge&logo=sass&logoColor=CC6699" alt="Sass"/>
-<img src="https://img.shields.io/badge/-HTML5-1c2128?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-<img src="https://img.shields.io/badge/-CSS-1c2128?style=for-the-badge&logo=css&logoColor=663399" alt="CSS"/>
+<img src="https://img.shields.io/badge/-TypeScript-1c2128?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/> <img src="https://img.shields.io/badge/-JavaScript-1c2128?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> <img src="https://img.shields.io/badge/-React-1c2128?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/-Next.js-1c2128?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js"/> <img src="https://img.shields.io/badge/-Redux%20Toolkit-1c2128?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux Toolkit"/> <img src="https://img.shields.io/badge/-Tailwind%20CSS-1c2128?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/-shadcn%2Fui-1c2128?style=for-the-badge&logo=shadcnui&logoColor=FFFFFF" alt="shadcn/ui"/> <img src="https://img.shields.io/badge/-React%20Hook%20Form-1c2128?style=for-the-badge&logo=reacthookform&logoColor=EC5990" alt="React Hook Form"/> <img src="https://img.shields.io/badge/-Zod-1c2128?style=for-the-badge&logo=zod&logoColor=408AFF" alt="Zod"/> <img src="https://img.shields.io/badge/-Framer%20Motion-1c2128?style=for-the-badge&logo=framer&logoColor=0055FF" alt="Framer Motion"/> <img src="https://img.shields.io/badge/-GSAP-1c2128?style=for-the-badge&logo=gsap&logoColor=0AE448" alt="GSAP"/> <img src="https://img.shields.io/badge/-Vite-1c2128?style=for-the-badge&logo=vite&logoColor=9135FF" alt="Vite"/> <img src="https://img.shields.io/badge/-Sass-1c2128?style=for-the-badge&logo=sass&logoColor=CC6699" alt="Sass"/> <img src="https://img.shields.io/badge/-HTML5-1c2128?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/> <img src="https://img.shields.io/badge/-CSS-1c2128?style=for-the-badge&logo=css&logoColor=663399" alt="CSS"/>
 
 #### Backend
 
-<img src="https://img.shields.io/badge/-Node.js-1c2128?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
-<img src="https://img.shields.io/badge/-NestJS-1c2128?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS"/>
-<img src="https://img.shields.io/badge/-Express-1c2128?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express"/>
-<img src="https://img.shields.io/badge/-REST%20API-1c2128?style=for-the-badge" alt="REST API"/>
-<img src="https://img.shields.io/badge/-JWT-1c2128?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF" alt="JWT"/>
+<img src="https://img.shields.io/badge/-Node.js-1c2128?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/> <img src="https://img.shields.io/badge/-NestJS-1c2128?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS"/> <img src="https://img.shields.io/badge/-Express-1c2128?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express"/> <img src="https://img.shields.io/badge/-REST%20API-1c2128?style=for-the-badge" alt="REST API"/> <img src="https://img.shields.io/badge/-JWT-1c2128?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF" alt="JWT"/>
 
 #### Databases & ORM
 
-<img src="https://img.shields.io/badge/-PostgreSQL-1c2128?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/-MongoDB-1c2128?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/-Redis-1c2128?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis"/>
-<img src="https://img.shields.io/badge/-Prisma-1c2128?style=for-the-badge&logo=prisma&logoColor=FFFFFF" alt="Prisma"/>
-<img src="https://img.shields.io/badge/-Drizzle-1c2128?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="Drizzle"/>
-<img src="https://img.shields.io/badge/-Sequelize-1c2128?style=for-the-badge&logo=sequelize&logoColor=52B0E7" alt="Sequelize"/>
-<img src="https://img.shields.io/badge/-Supabase-1c2128?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase"/>
-<img src="https://img.shields.io/badge/-Firebase-1c2128?style=for-the-badge&logo=firebase&logoColor=DD2C00" alt="Firebase"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-1c2128?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/-MongoDB-1c2128?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/> <img src="https://img.shields.io/badge/-Redis-1c2128?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis"/> <img src="https://img.shields.io/badge/-Prisma-1c2128?style=for-the-badge&logo=prisma&logoColor=FFFFFF" alt="Prisma"/> <img src="https://img.shields.io/badge/-Drizzle-1c2128?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="Drizzle"/> <img src="https://img.shields.io/badge/-Sequelize-1c2128?style=for-the-badge&logo=sequelize&logoColor=52B0E7" alt="Sequelize"/> <img src="https://img.shields.io/badge/-Supabase-1c2128?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase"/> <img src="https://img.shields.io/badge/-Firebase-1c2128?style=for-the-badge&logo=firebase&logoColor=DD2C00" alt="Firebase"/>
 
 #### DevOps & Tools
 
-<img src="https://img.shields.io/badge/-Docker-1c2128?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
-<img src="https://img.shields.io/badge/-Nginx-1c2128?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx"/>
-<img src="https://img.shields.io/badge/-Linux-1c2128?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
-<img src="https://img.shields.io/badge/-Vercel-1c2128?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel"/>
-<img src="https://img.shields.io/badge/-GitHub%20Actions-1c2128?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/-Git-1c2128?style=for-the-badge&logo=git&logoColor=F03C2E" alt="Git"/>
-<img src="https://img.shields.io/badge/-Figma-1c2128?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
+<img src="https://img.shields.io/badge/-Docker-1c2128?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/> <img src="https://img.shields.io/badge/-Nginx-1c2128?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx"/> <img src="https://img.shields.io/badge/-Linux-1c2128?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/> <img src="https://img.shields.io/badge/-Vercel-1c2128?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel"/> <img src="https://img.shields.io/badge/-GitHub%20Actions-1c2128?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/-Git-1c2128?style=for-the-badge&logo=git&logoColor=F03C2E" alt="Git"/> <img src="https://img.shields.io/badge/-Figma-1c2128?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
 
 #### Integrations
 
-<img src="https://img.shields.io/badge/-Telegram%20Bot%20API-1c2128?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram Bot API"/>
-<img src="https://img.shields.io/badge/-WhatsApp-1c2128?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
-<img src="https://img.shields.io/badge/-%D0%AEKassa-1c2128?style=for-the-badge" alt="ЮKassa"/>
-<img src="https://img.shields.io/badge/-CloudPayments-1c2128?style=for-the-badge" alt="CloudPayments"/>
-<img src="https://img.shields.io/badge/-Bitrix24-1c2128?style=for-the-badge" alt="Bitrix24"/>
+<img src="https://img.shields.io/badge/-Telegram%20Bot%20API-1c2128?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram Bot API"/> <img src="https://img.shields.io/badge/-WhatsApp-1c2128?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/> <img src="https://img.shields.io/badge/-%D0%AEKassa-1c2128?style=for-the-badge" alt="ЮKassa"/> <img src="https://img.shields.io/badge/-CloudPayments-1c2128?style=for-the-badge" alt="CloudPayments"/> <img src="https://img.shields.io/badge/-Bitrix24-1c2128?style=for-the-badge" alt="Bitrix24"/>
 
 <br>
 
@@ -113,10 +78,7 @@ from a Figma mockup to a deployed app with a back office.
 
 *Разрабатываю сайты, админ-панели и CRM для бизнеса. Пишите — обсудим задачу.*
 
-<a href="https://toldiev-prompts.ru"><img src="https://img.shields.io/badge/-toldiev--prompts.ru-1c2128?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="toldiev-prompts.ru"/></a>
-<a href="https://instagram.com/ahmed.toldiev"><img src="https://img.shields.io/badge/-Instagram-1c2128?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
-<a href="https://t.me/ahmedtoldiev"><img src="https://img.shields.io/badge/-Telegram-1c2128?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a>
-<a href="https://www.linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+<a href="https://toldiev-prompts.ru"><img src="https://img.shields.io/badge/-toldiev--prompts.ru-1c2128?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="toldiev-prompts.ru"/></a> <a href="https://instagram.com/ahmed.toldiev"><img src="https://img.shields.io/badge/-Instagram-1c2128?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a> <a href="https://t.me/ahmedtoldiev"><img src="https://img.shields.io/badge/-Telegram-1c2128?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a> <a href="https://www.linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
 
 <!--
   TODO перед публикацией:
