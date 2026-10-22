@@ -9,7 +9,7 @@ export const TAGLINE = 'Full-stack developer · TypeScript · Next.js · NestJS 
 
 // Строки карточки в стиле neofetch. key: value (значение не длиннее ~54 символов)
 export const CARD_ROWS: Array<[string, string]> = [
-  ['Role', 'Full-stack developer, freelance'],
+  ['Role', 'Full-stack developer'],
   ['Experience', '5 years'],
   ['Location', 'Tbilisi, Georgia'],
   ['Frontend', 'React · Next.js · TypeScript · React Router'],
