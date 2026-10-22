@@ -1,4 +1,4 @@
-name: Update contribution graph
+name: Update profile art
 
 on:
   schedule:
@@ -26,9 +26,10 @@ jobs:
 
       - run: npm ci
       - run: npm run typecheck
-      - run: npm run refresh
+      - run: npm run art # шапка и карточка из scripts/profile.config.ts
+      - run: npm run refresh # свежий график контрибуций
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json assets/heatmap-*.svg"
+          commit_message: "chore: refresh profile art [skip ci]"
+          file_pattern: "data/contributions.json assets/*.svg"
