@@ -91,7 +91,7 @@ from a Figma mockup to a deployed app with a back office.
 
 *Разрабатываю сайты, админ-панели и CRM для бизнеса. Пишите — обсудим задачу.*
 
-<a href="https://toldiev-prompts.ru"><img src="https://img.shields.io/badge/-toldiev--prompts.ru-1c2128?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="toldiev-prompts.ru"/></a> <a href="https://instagram.com/ahmed.toldiev"><img src="https://img.shields.io/badge/-Instagram-1c2128?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a> <a href="https://t.me/ahmedtoldiev"><img src="https://img.shields.io/badge/-Telegram-1c2128?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a> <a href="https://www.linkedin.com/in/akhmed-toldiev/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a> <a href="mailto:akhmed.toldiev@gmail.com"><img src="https://img.shields.io/badge/-akhmed.toldiev%40gmail.com-1c2128?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="https://instagram.com/ahmed.toldiev"><img src="https://img.shields.io/badge/-Instagram-1c2128?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a> <a href="https://t.me/ahmedtoldiev"><img src="https://img.shields.io/badge/-Telegram-1c2128?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a> <a href="https://www.linkedin.com/in/akhmed-toldiev/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a> <a href="mailto:akhmed.toldiev@gmail.com"><img src="https://img.shields.io/badge/-akhmed.toldiev%40gmail.com-1c2128?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 
 <!--
   TODO перед публикацией:
