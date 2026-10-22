@@ -49,7 +49,7 @@
 <text x="40" y="399" xml:space="preserve" fill="#4ade80" class="fade b" style="animation-delay:0.90s">  \|____|___|____|/  </text>
 <text x="260.4" y="110" class="fade" style="animation-delay:1.10s"><tspan fill="#4ade80" class="b">ahmed</tspan><tspan fill="#eef2f6">@</tspan><tspan fill="#4ade80" class="b">toldiev</tspan></text>
 <text x="260.4" y="130" fill="#a3adb8" class="fade" style="animation-delay:1.17s">-------------</text>
-<text x="260.4" y="150" xml:space="preserve" class="fade" style="animation-delay:1.24s"><tspan fill="#7dd3fc" class="b">Role:         </tspan><tspan fill="#eef2f6">Full-stack developer, freelance</tspan></text>
+<text x="260.4" y="150" xml:space="preserve" class="fade" style="animation-delay:1.24s"><tspan fill="#7dd3fc" class="b">Role:         </tspan><tspan fill="#eef2f6">Full-stack developer</tspan></text>
 <text x="260.4" y="170" xml:space="preserve" class="fade" style="animation-delay:1.31s"><tspan fill="#7dd3fc" class="b">Experience:   </tspan><tspan fill="#eef2f6">5 years</tspan></text>
 <text x="260.4" y="190" xml:space="preserve" class="fade" style="animation-delay:1.38s"><tspan fill="#7dd3fc" class="b">Location:     </tspan><tspan fill="#eef2f6">Tbilisi, Georgia</tspan></text>
 <text x="260.4" y="210" xml:space="preserve" class="fade" style="animation-delay:1.45s"><tspan fill="#7dd3fc" class="b">Frontend:     </tspan><tspan fill="#eef2f6">React · Next.js · TypeScript · React Router</tspan></text>
