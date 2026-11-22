@@ -1,42 +1,7 @@
 {
   "username": "atoldiev",
-  "fetchedAt": "2026-11-21T10:57:48.310Z",
+  "fetchedAt": "2026-11-22T11:18:49.930Z",
   "days": [
-    {
-      "date": "2025-11-16",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-17",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-18",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-20",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-21",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-22",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-23",
       "count": 0,
@@ -1854,12 +1819,17 @@
     },
     {
       "date": "2026-11-21",
+      "count": 3,
+      "level": 2
+    },
+    {
+      "date": "2026-11-22",
       "count": 0,
       "level": 0
     }
   ],
-  "total": 336,
-  "currentStreak": 12,
+  "total": 339,
+  "currentStreak": 13,
   "longestStreak": 18,
   "bestDay": {
     "date": "2026-10-22",
