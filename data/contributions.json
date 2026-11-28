@@ -1,6 +1,6 @@
 {
   "username": "atoldiev",
-  "fetchedAt": "2026-11-27T12:13:04.257Z",
+  "fetchedAt": "2026-11-28T11:41:19.559Z",
   "days": [
     {
       "date": "2025-11-23",
@@ -1849,13 +1849,18 @@
     },
     {
       "date": "2026-11-27",
-      "count": 3,
-      "level": 2
+      "count": 10,
+      "level": 4
+    },
+    {
+      "date": "2026-11-28",
+      "count": 2,
+      "level": 1
     }
   ],
-  "total": 354,
-  "currentStreak": 19,
-  "longestStreak": 19,
+  "total": 363,
+  "currentStreak": 20,
+  "longestStreak": 20,
   "bestDay": {
     "date": "2026-10-22",
     "count": 18,
